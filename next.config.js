@@ -11,11 +11,6 @@ const nextConfig = {
       },
     ],
   },
-  experimental: {
-    serverActions: {
-      bodySizeLimit: '10mb',
-    },
-  },
   env: {
     CUSTOM_KEY: 'my-value',
   },

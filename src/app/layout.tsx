@@ -10,7 +10,7 @@ const cairo = Cairo({
 })
 
 const almarai = Almarai({
-  weight: ['300', '400', '500', '600', '700', '800'],
+  weight: ['300', '400', '700', '800'],
   subsets: ['arabic'],
   variable: '--font-almarai',
   display: 'swap',
